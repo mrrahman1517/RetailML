@@ -190,16 +190,6 @@ clv_scores = clv_model.predict_customer_value()
 - Scenario forecasting
 - Risk assessment
 
-## Business Impact Framing
-
-Each model is designed to address Principal/VP-level concerns:
-
-- **Uncertainty Quantification**: Probabilistic outputs for risk-aware decision making
-- **Causal Reasoning**: Understanding intervention effects, not just correlations
-- **Cost-Benefit Tradeoffs**: Models consider business costs and constraints
-- **Scalability**: Production-ready implementations
-- **Interpretability**: Model outputs are explainable to stakeholders
-
 ## License
 
 This project is for educational and demonstration purposes.
