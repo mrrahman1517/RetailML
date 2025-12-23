@@ -200,20 +200,6 @@ Each model is designed to address Principal/VP-level concerns:
 - **Scalability**: Production-ready implementations
 - **Interpretability**: Model outputs are explainable to stakeholders
 
-## Key Insights for Interviews
-
-When discussing these models, emphasize:
-
-1. **Probabilistic Thinking**: "Point forecasts are insufficient; we need uncertainty quantification for risk-aware decisions."
-
-2. **Causal ML**: "Markdown decisions are fundamentally causal problems—what happens if we change price today vs. next week?"
-
-3. **Business Alignment**: "Rather than predicting churn in isolation, we frame around expected future value and how interventions change that trajectory."
-
-4. **Systems Thinking**: "The challenge isn't just predicting demand, but making allocation decisions under uncertainty while balancing customer experience and cost."
-
-5. **Rigor Matters**: "These are ML problems where rigor actually matters—uncertainty, decision costs, and customer impact are first-class concerns."
-
 ## License
 
 This project is for educational and demonstration purposes.
